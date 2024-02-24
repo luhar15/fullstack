@@ -1,0 +1,42 @@
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #141313;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  
+  .confot{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100% !important;
+  }
+  
+  .contact-info {
+    margin-bottom: 10px;
+    color:aliceblue;
+  }
+  
+  .social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    color: #f2eeee;
+    font-size: 20px;
+    transition: color 0.3s ease;
+  }
+  
+  .social-links a:hover {
+    color: #007bff; /* Change to your desired hover color */
+  }
+  .copyright{
+    margin-right: 25px;
+    right:0%;
+    color:aliceblue;
+  }
+  
